@@ -8,3 +8,4 @@
 max-fa5/max-fa5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Covid 19 Visualizations.docx](https://github.com/max-fa5/max-fa5/files/7858998/Covid.19.Visualizations.docx)
